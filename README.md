@@ -10,16 +10,6 @@ The IBM Quantum Spring Challenge runs from **Monday, May 23 at 9AM EDT until Fri
 
 To recognize your achievement, those who complete all the exercises will receive a digital achievement badge to showcase the skills you've developed throughout the challenge.
 
-Think you're up for the task? **[Register here](https://challenges.quantum-computing.ibm.com/spring-2022)**
-
-## Stay Connected 
-Make sure to join the dedicated Slack channel [#spring-challenge-2022](https://qiskit.slack.com/archives/C03BRNA9UQY) where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already.
-<br><br>
-# [Event Code of Conduct](https://github.com/qiskit-community/ibm-quantum-spring-challenge-2022/blob/main/Code%20of%20Conduct.md#code-of-conduct-for-participation)
-
-# [Preliminary Content](https://github.com/qiskit-community/ibm-quantum-spring-challenge-2022/blob/main/Preliminary%20Content.md)
-
-# [FAQ](https://github.com/qiskit-community/ibm-quantum-spring-challenge-2022/blob/main/faq.md)
-
-# [HINTS](https://github.com/qiskit-community/ibm-quantum-spring-challenge-2022/blob/main/Hints..md)
+## This Repo
+This repo contains my solution code for the 4 exercises posed in the 2022 IBM Quantum Spring Challenge! 
 
